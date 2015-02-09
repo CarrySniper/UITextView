@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1C6E3ABC-F99B-40E3-9AFC-F424712307E1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UITextView的创建与使用</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4320C325640603A54440E9DD226D161039535B20</key>
+		<string>https://github.com/cjq002/UITextView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UITextView的创建与使用.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4320C325640603A54440E9DD226D161039535B20</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cjq002/UITextView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4320C325640603A54440E9DD226D161039535B20</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4320C325640603A54440E9DD226D161039535B20</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UITextView%E7%9A%84%E5%88%9B%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8</string>
+		</dict>
+	</array>
+</dict>
+</plist>
